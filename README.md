@@ -1,4 +1,4 @@
-\# Husky A200 Vineyard Navigation Handoff
+## Husky A200 Vineyard Navigation Handoff
 
 
 
@@ -6,7 +6,7 @@ This repository contains the ROS 2 code and handoff notes for the Husky A200 vin
 
 
 
-\## Main ROS 2 Package
+## Main ROS 2 Package
 
 
 
