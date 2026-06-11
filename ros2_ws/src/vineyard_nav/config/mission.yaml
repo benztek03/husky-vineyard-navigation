@@ -1,0 +1,13 @@
+frame_id: map
+initial_pose:
+  x: 0.0
+  y: 0.0
+  yaw: 0.0
+
+rows:
+  - name: hallway_test
+    entry_pose:
+      x: 0.0
+      y: 0.0
+      yaw: 0.0
+    row_timeout_sec: 120.0
