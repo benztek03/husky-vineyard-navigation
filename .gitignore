@@ -1,0 +1,31 @@
+# ROS 2 build folders
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ROS bags and large recorded data
+*.db3
+*.mcap
+*.bag
+rosbag2_*/
+*_test_*/
+imu_vs_wheel_odom_test_*/
+gps_vs_map_*/
+arc_feedback_test_*/
+
+# Large media/files
+*.mp4
+*.mov
+*.avi
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
