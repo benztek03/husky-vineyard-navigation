@@ -165,11 +165,3 @@ The vineyard was harder.
 The rows looked very similar to the 2D LiDAR. This caused row aliasing, where localization could sometimes jump between rows.
 
 Because of this, static-map navigation was useful, but not enough by itself.
-
-## Final takeaway
-
-Use mapping and Nav2 to learn the system first.
-
-But for vineyard row driving, the better final direction was LiDAR row following.
-
-The saved map is still useful, but the row follower is better for staying centered inside a row.
