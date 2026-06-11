@@ -16,5 +16,5 @@ The main package is:
 
 ```text
 
-ros2\_ws/src/vineyard\_nav
+ros2_ws/src/vineyard_nav
 
