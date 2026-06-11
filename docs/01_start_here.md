@@ -1,11 +1,3 @@
-FILE: docs/01_start_here.md
-
-# Start Here
-
-This repo is for the next team working on the Husky vineyard robot.
-
-The goal is to help you understand what we did, how to run the code, and what still needs work.
-
 ## What this project did
 
 We used a Husky A200 robot to test vineyard navigation.
@@ -21,7 +13,7 @@ We tested:
 * GPS logging
 * Pest detection and deterrence
 
-## Biggest lesson
+## Biggest takeaway
 
 Indoor navigation worked much better than vineyard navigation.
 
@@ -29,7 +21,7 @@ The vineyard rows looked very similar to the LiDAR, so the robot could sometimes
 
 Because of this, the best direction was LiDAR row following. The robot uses the LiDAR to stay centered between the left and right sides of the row.
 
-## Recommended order
+## Recommended order for beginning with Husky
 
 Do this in order:
 
